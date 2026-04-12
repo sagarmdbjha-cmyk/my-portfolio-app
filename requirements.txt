@@ -1,0 +1,14 @@
+# Portfolio Manager Pro - Required Libraries
+# Install command: pip install -r requirements.txt
+
+# ── Core Dashboard ───────────────────────────
+streamlit>=1.32.0          # Web dashboard framework
+plotly>=5.18.0             # Interactive charts
+pandas>=2.0.0              # Data handling
+
+# ── Market Data ─────────────────────────────
+yfinance>=0.2.36           # NSE/BSE share prices (free, no API key needed)
+mftool>=2.0.14             # India Mutual Fund NAV (AMFI, free)
+
+# ── Utilities ───────────────────────────────
+requests>=2.31.0           # HTTP requests
