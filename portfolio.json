@@ -215,50 +215,7 @@
       "price_updated": "2026-04-12T21:27:16.354327"
     }
   ],
-  "unlisted_shares": [
-    {
-      "name": "Bharat Electronics Ltd.",
-      "qty": 250,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    },
-    {
-      "name": "Adani Energy Solutions",
-      "qty": 820,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    },
-    {
-      "name": "RattanIndia Enterprises Ltd.",
-      "qty": 35,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    },
-    {
-      "name": "JIO Financial Services Ltd.",
-      "qty": 218,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    },
-    {
-      "name": "Bharat Petroleum Corp. Ltd.",
-      "qty": 242,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    },
-    {
-      "name": "Vedanta Ltd.",
-      "qty": 320,
-      "cost_price": 0,
-      "est_price": 0,
-      "status": "Listed Ho Gaya"
-    }
-  ],
+  "unlisted_shares": [],
   "mutual_funds": [],
   "loans": [],
   "settings": {},
