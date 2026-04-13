@@ -16,7 +16,7 @@ import time
 # GOOGLE SHEET WEB APP URL
 # Apps Script > Deploy > Manage Deployments se copy karein
 # ─────────────────────────────────────────────────────────────
-WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwcUs3M5LqWnuW5JAU7l6IzdkSpQ2SO4w4zfrgVtkHujqnJXCaAKVw_Xp7GRNZt4prLRw/exec"
+WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwa9c0TSR0vmlkdm3LYvK_0t_0CRE5wiVYuAiYXVMuJ3rKeZWk9NbF7MXrxAl6uZF8ifw/exec"
 
 
 # ═════════════════════════════════════════════════════════════
