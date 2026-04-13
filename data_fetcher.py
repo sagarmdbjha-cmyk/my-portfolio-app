@@ -2,7 +2,7 @@ import requests
 import json
 
 # Naya deployment URL yahan daalein (Step 2 wala)
-WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwC030FJENl3N15SvzJAsOW1w1dn2AvSBkBrWEbIvU51WJONkQRf9UwoK8qkkhMUyjBeQ/exec"
+WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzIEG1NCu2bPz4N4oxFNTQd90Rq6PHmzqMkcwlfoCDMyrsa9hT2sW72spsLy-NjX3GhvA/exec"
 
 def get_sheet_data(sheet_name):
     try:
